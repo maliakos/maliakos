@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently studying Computer Schience at the Hellenic Open University!
 
 <!--
 **maliakos/maliakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
